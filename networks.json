@@ -1,0 +1,15 @@
+{
+<<<<<<< HEAD
+	"oasis": {
+		"Factory": {
+			"address": "0x5F50fDC22697591c1D7BfBE8021163Fc73513653",
+			"startBlock": 56091
+=======
+	"hedera": {
+		"Factory": {
+			"address": "0x00000000000000000000000000000000003c3951",
+			"startBlock": 55651154
+>>>>>>> ce64d5f (Migrating from ETH to Hedera)
+		}
+	}
+}
